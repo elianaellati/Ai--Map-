@@ -14,3 +14,9 @@ The project provides two pathfinding algorithms:
  - Path Reconstruction: Both algorithms reconstruct and display the shortest path from the source node to the destination node.
 # ScreenShots For the Project
  ## ![image](https://github.com/user-attachments/assets/75f5f5a9-a6d2-47c2-90e3-373b341f25cc)
+ ## Photo for A Algorithm* Button Click:
+  - Clicking the 'A' button initiates the A* pathfinding algorithm, which calculates the shortest path from the source to the destination using heuristics and displays the path on the map.
+    ![image](https://github.com/user-attachments/assets/dae1d6e5-05d6-40d8-869f-8e5a776921f2)
+ ## Photo for BFS Algorithm Button Click:
+   - Clicking the 'BFS' button initiates the Breadth-First Search algorithm to find the shortest path in an unweighted graph from the source to the destination and displays the path on the map.
+    ![Uploading image.png…]()
