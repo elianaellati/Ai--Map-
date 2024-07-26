@@ -12,4 +12,5 @@ The project provides two pathfinding algorithms:
  - Graph Representation: Graphs are represented as adjacency lists. The A* implementation supports weighted edges.
  - Pathfinding Algorithms: Includes implementations of BFS and A* for different types of graphs.
  - Path Reconstruction: Both algorithms reconstruct and display the shortest path from the source node to the destination node.
-![image](https://github.com/user-attachments/assets/75f5f5a9-a6d2-47c2-90e3-373b341f25cc)
+# ScreenShots For the Project
+ ## ![image](https://github.com/user-attachments/assets/75f5f5a9-a6d2-47c2-90e3-373b341f25cc)
